@@ -1,0 +1,12 @@
+body {
+    background: url("images/BigData.jpg") no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.inbody {
+    margin: auto;
+    padding-top: 3%;
+}
